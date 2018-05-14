@@ -1,2 +1,4 @@
-# Genetic_Algorithm_Basic
-Basic Genetic Algorithm Proof
+# STATUS
+ Right now development for this algorithm is completely dead.
+ I'm not resuming.
+ Look for future implementations which take a less abstract approach.
